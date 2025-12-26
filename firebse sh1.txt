@@ -1,0 +1,24 @@
+cd android 
+./gradlew signingReport
+
+com.kattu.nayakkan.matrimony
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\bala\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 9E:47:1F:61:EF:47:2E:A0:6E:9F:A8:52:EA:F5:3D:DC
+SHA1: FD:C2:37:1E:4C:B5:72:0F:DE:9F:D3:F2:11:4E:67:D2:FA:0B:B2:60
+SHA-256: 26:F8:50:28:74:03:EC:B8:7B:07:9A:9A:97:B6:8B:86:36:6B:E7:72:3B:7D:A9:5F:88:ED:C8:CA:F0:FA:FF:B3
+Valid until: Monday, 29 November, 2055
+----------
+Variant: release
+Config: release
+Store: C:\Users\bala\Desktop\Meditechnos\Matrimony\matrimony.jks
+Alias: key
+MD5: 06:ED:97:19:BA:3B:F9:8E:8F:77:C9:76:A6:85:61:95
+SHA1: 80:02:EB:D7:59:37:89:2C:15:1F:18:11:1A:DC:E7:D2:1C:D1:BB:0F
+SHA-256: 0A:21:CA:B6:77:38:85:F8:C7:02:BB:C4:DB:8D:D7:5E:FC:BF:7E:35:DC:D7:04:40:46:0C:3F:ED:1D:2A:60:16
+Valid until: Friday, 25 April, 2053
+----------
